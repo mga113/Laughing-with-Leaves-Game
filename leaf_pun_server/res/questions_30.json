@@ -1,0 +1,200 @@
+[
+    {
+        "question": "What did one leaf say to the other on a sunny day?",
+        "answers": [
+            { "text": "I'm turning over a new leaf!", "correct": false },
+            { "text": "I'm falling for you!", "correct": true },
+            { "text": "I'm branching out!", "correct": false },
+            { "text": "I'm getting some sun!", "correct": false }
+        ]
+    },
+    {
+        "question": "Why did the tree go to the dentist?",
+        "answers": [
+            { "text": "To get a root canal!", "correct": true },
+            { "text": "To get its leaves cleaned.", "correct": false },
+            { "text": "To have its branches checked.", "correct": false },
+            { "text": "To fix its bark.", "correct": false }
+        ]
+    },
+    {
+        "question": "What's a tree's least favorite month?",
+        "answers": [
+            { "text": "Deciduous", "correct": false },
+            { "text": "Sep-timber!", "correct": true },
+            { "text": "Leaf-uary", "correct": false },
+            { "text": "May-flower", "correct": false }
+        ]
+    },
+    {
+        "question": "How do trees get online during the fall?",
+        "answers": [
+            { "text": "They log in!", "correct": true },
+            { "text": "They use Wi-Fir!", "correct": false },
+            { "text": "They leaf their connection.", "correct": false },
+            { "text": "They branch out to the web.", "correct": false }
+        ]
+    },
+    {
+        "question": "What do you call a tree that tells jokes?",
+        "answers": [
+            { "text": "A pun-kin!", "correct": true },
+            { "text": "A leaf comedian!", "correct": false },
+            { "text": "A forest funny-ster!", "correct": false },
+            { "text": "A bark-tender!", "correct": false }
+        ]
+    },
+    {
+        "question": "How do you make a tree stop in its tracks?",
+        "answers": [
+            { "text": "Bark at it!", "correct": true },
+            { "text": "Yell 'Timber!'", "correct": false },
+            { "text": "Give it some shade.", "correct": false },
+            { "text": "Play some tree music.", "correct": false }
+        ]
+    },
+    {
+        "question": "What's a tree's favorite type of music?",
+        "answers": [
+            { "text": "Rock and Mulch", "correct": true },
+            { "text": "Hip-Hop-tus", "correct": false },
+            { "text": "Leaf Jazz", "correct": false },
+            { "text": "Branching Ballads", "correct": false }
+        ]
+    },
+    {
+        "question": "Why did the scarecrow win an award?",
+        "answers": [
+            { "text": "Because it was outstanding in its field!", "correct": true },
+            { "text": "Because it had a leafy personality!", "correct": false },
+            { "text": "Because it could tell corny jokes!", "correct": false },
+            { "text": "Because it was best at scaring crows!", "correct": false }
+        ]
+    },
+    {
+        "question": "How do trees communicate with each other?",
+        "answers": [
+            { "text": "They use leaflets.", "correct": false },
+            { "text": "They send tree-mails.", "correct": true },
+            { "text": "They exchange root notes.", "correct": false },
+            { "text": "They use the 'bark' code.", "correct": false }
+        ]
+    },
+    {
+        "question": "What do you call a tree that can play a musical instrument?",
+        "answers": [
+            { "text": "A melodious maple", "correct": false },
+            { "text": "A symphonic spruce", "correct": true },
+            { "text": "A tune-yield tree", "correct": false },
+            { "text": "An instrument tree", "correct": false }
+        ]
+    },
+    {
+        "question": "What's a tree's favorite form of art?",
+        "answers": [
+            { "text": "Barkwork", "correct": true },
+            { "text": "Photosynthesis", "correct": false },
+            { "text": "Leafscaping", "correct": false },
+            { "text": "Tree-stract painting", "correct": false }
+        ]
+    },
+    {
+        "question": "Why did the leaf go to school?",
+        "answers": [
+            { "text": "To learn how to photosynthesize.", "correct": false },
+            { "text": "To get a higher degree in foliage.", "correct": false },
+            { "text": "To sharpen its 'tree'-telligence.", "correct": false },
+            { "text": "To turn over a new leaf!", "correct": true }
+        ]
+    },
+    {
+        "question": "What's a tree's favorite outdoor activity?",
+        "answers": [
+            { "text": "Hiking in the woods.", "correct": false },
+            { "text": "Leaf-peeping in the fall.", "correct": false },
+            { "text": "Tree-climbing.", "correct": true },
+            { "text": "Playing frisbee in the park.", "correct": false }
+        ]
+    },
+    {
+        "question": "How do trees greet each other?",
+        "answers": [
+            { "text": "They shake branches.", "correct": false },
+            { "text": "They wave their leaves.", "correct": false },
+            { "text": "They root for one another.", "correct": false },
+            { "text": "They give a big \"leaf\" hug.", "correct": true }
+        ]
+    },
+    {
+        "question": "What do you call a tree that's always hungry?",
+        "answers": [
+            { "text": "A tree-ter.", "correct": false },
+            { "text": "A munch-kin.", "correct": false },
+            { "text": "A canopy-eater.", "correct": false },
+            { "text": "A nom-sapwood.", "correct": true }
+        ]
+    },
+    {
+        "question": "Why don't trees ever use smartphones?",
+        "answers": [
+            { "text": "Because they prefer rotary phones.", "correct": false },
+            { "text": "Because they can't stand the 'cell' service.", "correct": true },
+            { "text": "Because they're too busy branching out.", "correct": false },
+            { "text": "Because they're afraid of getting hacked.", "correct": false }
+        ]
+    },
+    {
+        "question": "What's a tree's favorite kind of party?",
+        "answers": [
+            { "text": "A bark-b-que.", "correct": false },
+            { "text": "A root beer float party.", "correct": false },
+            { "text": "A photosynthesis rave.", "correct": false },
+            { "text": "A trunk show.", "correct": true }
+        ]
+    },
+    {
+        "question": "Why did the tree bring a ladder to the forest?",
+        "answers": [
+            { "text": "To help animals climb.", "correct": false },
+            { "text": "To rescue a cat stuck in a tree.", "correct": false },
+            { "text": "To take a canopy selfie.", "correct": false },
+            { "text": "To see if it could 'branch out' more.", "correct": true }
+        ]
+    },
+    {
+        "question": "How do trees stay in touch with their relatives?",
+        "answers": [
+            { "text": "They send leafy postcards.", "correct": false },
+            { "text": "They use tree-mail.", "correct": true },
+            { "text": "They schedule family reunions.", "correct": false },
+            { "text": "They hire a tree genealogist.", "correct": false }
+        ]
+    },
+    {
+        "question": "What did the tree do when it lost all its leaves in the fall?",
+        "answers": [
+            { "text": "Went to therapy to 'leaf' stress.", "correct": false },
+            { "text": "Threw a 'leaf-falling' party.", "correct": false },
+            { "text": "Stood naked in the forest.", "correct": true },
+            { "text": "Started a leaf collection.", "correct": false }
+        ]
+    },
+    {
+        "question": "Why was the tree always calm and collected?",
+        "answers": [
+            { "text": "Because it had deep roots.", "correct": false },
+            { "text": "Because it practiced tree-meditation.", "correct": false },
+            { "text": "Because it didn't get 'bark'-y.", "correct": false },
+            { "text": "Because it knew how to 'leaf' stress behind.", "correct": true }
+        ]
+    },
+    {
+        "question": "What do you call a tree with an identity crisis?",
+        "answers": [
+            { "text": "A lost oak.", "correct": false },
+            { "text": "A confused conifer.", "correct": false },
+            { "text": "A tree-minal case.", "correct": false },
+            { "text": "A pine-apple.", "correct": true }
+        ]
+    }
+]
