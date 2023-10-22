@@ -1,7 +1,7 @@
 # Game Name: Laughing with Leaves 
 
 ## Project Description
-This is a riddle game, where the user solves various leaf-like riddles in order to grow a tree. The more riddles the user sucessfully answers,
+This is a riddle game where the user solves various leaf-like riddles in order to grow a tree. The more riddles the user sucessfully answers,
  the more the tree grows. If you reach max tree size, you have sucessfully grown the tree and you win the game!
  
  On the contrary, for every riddle answered incorrecrtly, the tree's growth process is reversed, and it is 
@@ -33,11 +33,11 @@ Open the `leaf_pun_client` folder and double-click on `index.html`
 4. Enjoy!
 
 ## Participant names and contact information
-TRAN BAO KHANH HUYNH (Nathan): tran_bao_khanh_huynh@sfu.ca
-TAKUTO SAKAEMURA: tsa117@sfu.ca
-Mrinal Goshalia: mrinal_goshalia@sfu.ca
-Hieu Duong: hieu_duong@sfu.ca
-Kazi boni Amin: bonirhythm@gmail.com
+TRAN BAO KHANH HUYNH (Nathan): tran_bao_khanh_huynh@sfu.ca/
+TAKUTO SAKAEMURA: tsa117@sfu.ca/ 
+Mrinal Goshalia: mrinal_goshalia@sfu.ca/
+Hieu Duong: hieu_duong@sfu.ca/
+Kazi boni Amin: bonirhythm@gmail.com/
 
 
 
