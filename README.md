@@ -33,11 +33,11 @@ Open the `leaf_pun_client` folder and double-click on `index.html`
 4. Enjoy!
 
 ## Participant names and contact information
-TRAN BAO KHANH HUYNH (Nathan): tran_bao_khanh_huynh@sfu.ca/
-TAKUTO SAKAEMURA: tsa117@sfu.ca/ 
-Mrinal Goshalia: mrinal_goshalia@sfu.ca/
-Hieu Duong: hieu_duong@sfu.ca/
-Kazi boni Amin: bonirhythm@gmail.com/
+TRAN BAO KHANH HUYNH (Nathan): tran_bao_khanh_huynh@sfu.ca \
+TAKUTO SAKAEMURA: tsa117@sfu.ca \
+Mrinal Goshalia: mrinal_goshalia@sfu.ca \
+Hieu Duong: hieu_duong@sfu.ca \
+Kazi boni Amin: bonirhythm@gmail.com \
 
 
 
